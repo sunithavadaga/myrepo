@@ -1,1 +1,4 @@
 git
+git add tesy.txt
+git commit -m "git"
+git push orgin main
